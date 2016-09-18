@@ -2,7 +2,7 @@
 ###  Zongmeng Yang
   ***
 > ## Homework
-> - [x] [Exercise_01]() 
+> - [x] [Exercise_01](https://github.com/Zemel-Yang/computationalphysics_N2014301020092/blob/master/README.md) 
 > - [x] [Exercise_02](https://github.com/Zemel-Yang/computationalphysics_N2014301020092/blob/master/ZEMEL%20YANG.py)
 > - [ ] [Exercise_03: All levels]()  
 > - [ ] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#498194)  
