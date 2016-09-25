@@ -4,7 +4,7 @@
 > ## Homework
 > - [x] [Exercise_01](https://github.com/Zemel-Yang/computationalphysics_N2014301020092/blob/master/README.md) 
 > - [x] [Exercise_02](https://www.zybuluo.com/mdeditor#505098-full-reader)
-> - [x] [Exercise_03: All levels]()  
+> - [x] [Exercise_03: All levels](https://www.zybuluo.com/mdeditor#498189)  
 > - [ ] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#498194)  
 > - [ ] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://www.zybuluo.com/mdeditor#498204)  
 > - [ ] [Exercise_06: Chapter 2 problem 2.19 & 2.10: The cannon](https://www.zybuluo.com/mdeditor#498209)  
