@@ -6,9 +6,9 @@ Code
 ```
 #coding=utf-8
 '''
-Created on 2014-11-17
+Created on 2016-10-5
  
-@author: Neo
+@author: Zemel Yang
 '''
 import turtle
 import math
