@@ -9,7 +9,7 @@
 > - [x] [Exercise_05: Chapter 2 problem 2.9: The cannon 1](https://www.zybuluo.com/Zemel-Yang/note/498209)  
 > - [x] [Exercise_06: Chapter 2 problem 2.10: The cannon 2](https://www.zybuluo.com/Zemel-Yang/note/498204)  
 > - [x] [Exercise_07: Chapter 3 problem 3.12: Chaos in Driven Nonelinear Pendulum](https://www.zybuluo.com/Zemel-Yang/note/498293)  
-> - [ ] [Exercise_08: Chapter 3 problem 3.4: None-linear oscillator](https://www.zybuluo.com/mdeditor#498215)  
+> - [x] [Exercise_08: Chapter 3 problem 3.18: Routes to Chaos: Period Doubling](https://www.zybuluo.com/mdeditor#498215)  
 > - [ ] [Exercise_09: Chapter 3 problem 3.16: Strange attractor](https://www.zybuluo.com/mdeditor#498217)  
 > - [ ] [Exercise_10: Chapter 3 problem 3.31: Billiard ball on diverse table](https://www.zybuluo.com/mdeditor#498220)  
 > - [ ] [Exercise_11: Chapter 4 problem 4.11: The percession of Mercury](https://www.zybuluo.com/mdeditor#498222)  
