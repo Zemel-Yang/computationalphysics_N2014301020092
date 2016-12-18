@@ -13,9 +13,8 @@
 > - [x] [Exercise_09: Chapter 3 problem 3.31: Billiard ball on diverse table](https://www.zybuluo.com/Zemel-Yang/note/498291)  
 > - [X] [Exercise_10: Chapter 4 problem 4.1: Plantery motion program wiyh different values of the time step](https://www.zybuluo.com/Zemel-Yang/note/498287)  
 > - [x] [Exercise_11: Chapter 4 problem 4.19: Chaotic Tumbling of Hyperion](https://www.zybuluo.com/Zemel-Yang/note/498222)  
-> - [x] [Exercise_12: Chapter 5 problem 5.1: Electric Potentials and Fields](https://www.zybuluo.com/Zemel-Yang/note/498220)  
-> - [ ] [Exercise_13: Chapter 5 problem 5.7: The Jacobi method v.s The SOR algorithm](https://www.zybuluo.com/mdeditor#498291)  
-> - [ ] [Exercise_14: Chapter 6 problem 6.15: The realistic string problem](https://www.zybuluo.com/mdeditor#498293)  
+> - [x] [Exercise_12: Chapter 5 problem 5.1: Electric Potentials and Fields](https://www.zybuluo.com/Zemel-Yang/note/498220)   
+> - [x] [Exercise_13: Chapter 6 problem 6.16: The realistic string problem](https://www.zybuluo.com/Zemel-Yang/note/498217)  
 > - [ ] [Final Project: 用轨道角动量分析Kirkwood Gap的缝宽](https://www.zybuluo.com/mdeditor#498294)  
 > - [x] [Extra:Celebrate National Day](https://github.com/Zemel-Yang/computationalphysics_N2014301020092/blob/master/Extra/Celebrate%20National%20Day.md)
 
