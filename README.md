@@ -15,6 +15,6 @@
 > - [x] [Exercise_11: Chapter 4 problem 4.19: Chaotic Tumbling of Hyperion](https://www.zybuluo.com/Zemel-Yang/note/498222)  
 > - [x] [Exercise_12: Chapter 5 problem 5.1: Electric Potentials and Fields](https://www.zybuluo.com/Zemel-Yang/note/498220)   
 > - [x] [Exercise_13: Chapter 6 problem 6.16: The realistic string problem](https://www.zybuluo.com/Zemel-Yang/note/498217)  
-> - [ ] [Final Project: 用轨道角动量分析Kirkwood Gap的缝宽](https://www.zybuluo.com/mdeditor#498294)  
+> - [x] [Final Project: Random Systems](https://www.zybuluo.com/Zemel-Yang/note/624118)  
 > - [x] [Extra:Celebrate National Day](https://github.com/Zemel-Yang/computationalphysics_N2014301020092/blob/master/Extra/Celebrate%20National%20Day.md)
 
